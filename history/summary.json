@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/api.steelboso.com",
     "slug": "steelboso-real-be",
     "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 624,
     "timeDay": 624,
     "timeWeek": 624,
     "timeMonth": 624,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2022-05-16": 14
+      "2022-05-16": 39
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://dev.steelboso.com",
     "icon": "https://favicons.githubusercontent.com/dev.steelboso.com",
     "slug": "steelboso-dev-fe",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
-    "time": 1138,
-    "timeDay": 1138,
-    "timeWeek": 1138,
-    "timeMonth": 1138,
-    "timeYear": 1138,
+    "status": "up",
+    "uptime": "70.92%",
+    "uptimeDay": "70.92%",
+    "uptimeWeek": "70.92%",
+    "uptimeMonth": "70.92%",
+    "uptimeYear": "70.92%",
+    "time": 1440,
+    "timeDay": 1440,
+    "timeWeek": 1440,
+    "timeMonth": 1440,
+    "timeYear": 1440,
     "dailyMinutesDown": {
-      "2022-05-16": 0
+      "2022-05-16": 11
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/dev.steelboso.com",
     "slug": "steelboso-dev-be",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 226,
     "timeDay": 226,
     "timeWeek": 226,
     "timeMonth": 226,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2022-05-16": 14
+      "2022-05-16": 39
     }
   }
 ]
