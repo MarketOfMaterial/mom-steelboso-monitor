@@ -10,7 +10,7 @@ sites:
   - name: Steelboso DEV - FE
     url: https://dev.steelboso.com
   - name: Steelboso DEV - BE
-    url: https://dev-v2.steelboso.com/api/status/
+    url: https://dev-api.steelboso.com/api/status/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
